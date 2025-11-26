@@ -107,4 +107,4 @@ pytest
 
 ## License
 
-MIT (or adjust to your preference).
+MIT
